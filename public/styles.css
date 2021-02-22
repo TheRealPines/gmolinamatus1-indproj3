@@ -42,7 +42,7 @@ footer, header, hgroup, menu, nav, section {
 
 body {
    line-height: 1;
-   width: 600px;
+   width: 50%;
    background: white;
    margin: 0 auto;
    font-family: Arial, Helvetica, sans-serif; 
@@ -63,6 +63,7 @@ header {
    border-bottom: 1px solid black;
    border-left: 1px solid black;
    border-right: 1px solid black;
+  text-align: center;
 }
 
 /* main content */
@@ -83,7 +84,7 @@ article h2 {
 div {
    padding: 1em;
    border: none;
-   width: 180px;
+   width: 250px;
    margin: 0 auto;
    text-align: left;
 }
